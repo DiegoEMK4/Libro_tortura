@@ -1,0 +1,53 @@
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+USUARIOS:
+
+CREAR USUARIO:
+POST → http://localhost:5654/api/usuario/crearUsuario
+Eliminar usuario:
+DELETE → http://localhost:5654/api/usuario/eliminarUsuario
+Buscar usuario:
+GET → http://localhost:5654/api/usuario/buscarUsuario
+Editar usuario:
+PUT → http://localhost:5654/api/usuario/editarUsuario
+Buscar usuarios:
+GET → http://localhost:5654/api/usuario/buscaUsuarios
+Ocultar contrasena:
+POST → http://localhost:5654/api/usuario/ocultarContrasena
+Iniciar Sesión:
+POST → http://localhost:5654/api/auth/login
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Registros:
+
+Crear libro:
+POST → http://localhost:5654/api/libro/crearLibro
+Eliminar libro:
+DELETE → http://localhost:5654/api/libro/eliminarLibro
+Buscar libro:
+GET → http://localhost:5654/api/libro/buscarLibro
+Editar libro:
+PUT → http://localhost:5654/api/libro/editarLibro
+Buscar libros:
+GET → http://localhost:5654/api/libro/buscarLibros
+Buscar libros excel:
+GET → http://localhost:5654/api/libro/buscarLibros-excel
+Eliminar libros logico:
+PUT→ http://localhost:5654/api/libro/eliminarLibroLogico
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Sesiones:
+
+Crear registro de sesion:
+POST → http://localhost:5654/api/sesion/crear_registro_sesion
+Eliminar registro de sesiones:
+DELETE → http://localhost:5654/api/sesion/eliminar_registro_sesion
+Editar registro de sesion:
+PUT → http://localhost:5654/api/sesion/editar_registro_sesion
+Buscar registros de sesiones:
+GET → http://localhost:5654/api/sesion/buscar_registros_sesion
+
+
+
+
+
