@@ -10,7 +10,7 @@
             height="10"
             class="ml-2"
           ></v-img>
-          <div class="text-caption mt-2">ESTADO DE MÉXICO</div>
+          <div class="text-caption mt-2">ESTADO DE MÉXICO 1</div>
         </div>
       </v-col>
       
